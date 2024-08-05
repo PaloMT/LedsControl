@@ -52,7 +52,3 @@ Este proyecto proporciona archivos en Python que permiten controlar una conexió
 ## Créditos 🙌
 
 Este proyecto fue basado en el proyecto de PICAIO SAS y está inspirado en proyectos similares de la comunidad de visión por computadora y Arduino. Modificado por PaloMT
-
-## Licencia 📝
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
